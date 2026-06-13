@@ -1,8 +1,8 @@
 Isso não é só um teste
 
 É um arquivo de exemplo
-<<<<<<< HEAD
+
 Alterando no VS Code
-=======
+
 Alterando no GitHub
->>>>>>> 3c1cd01f7ae79e0820fac0047bfce6315e94250b
+
